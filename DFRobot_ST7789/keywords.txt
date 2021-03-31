@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For DFRobot_Sensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_ST7789	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+writecommand	KEYWORD2
+writedata		KEYWORD2
+st7789_init		KEYWORD2
+displayInit		KEYWORD2
+setAddrWindow	KEYWORD2
+fillRect		KEYWORD2
+fillScreen		KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ST7789_TFTWIDTH		LITERAL1
+ST7789_TFTHEIGHT	LITERAL1
